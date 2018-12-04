@@ -1,0 +1,14 @@
+{
+  "name": "Web1",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "Init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fabuss254",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^4.16.4"
+  }
+}
