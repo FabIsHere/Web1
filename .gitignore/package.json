@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "Express": "^4.16.4"
-  }
+  },
+  { "engines" : { "node" : "<=0.12" } }
 }
