@@ -2,7 +2,7 @@ const express = require("Express")
 var app = express()
 
 app.use("/", function(res,req){
-  res.send(./web/index.html)
+  res.send("./Web/index.html")
 });
 
 app.listen(3000, function(){
